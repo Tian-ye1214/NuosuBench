@@ -29,6 +29,7 @@ size_categories:
 | NuosuEdu | 73,992 | 综合层 | 选择、判断、问答 | 语言逻辑、推理逻辑 |
 
 ## 测试代码：[MetricsCode](https://github.com/Tian-ye1214/Path-to-LLM-Mastery/tree/main/NLPMetrics)
+## [测试集](https://huggingface.co/datasets/TianYeZ1214/NuosuBench)
 
 # Nuosu-Benchmark Overview
 
@@ -49,3 +50,5 @@ Nuosu-Benchmark consists of **5 sub-datasets**, totaling **110,513** high-qualit
 | NuosuEdu  | 73,992  | Comprehensive          | Multiple choice, classification, QA | Linguistic reasoning, logical inference |
 
 ## Metrics Code：[MetricsCode](https://github.com/Tian-ye1214/Path-to-LLM-Mastery/tree/main/NLPMetrics)
+## [BenchMark](https://huggingface.co/datasets/TianYeZ1214/NuosuBench)
+
