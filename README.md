@@ -28,6 +28,8 @@ size_categories:
 | NuosuGov | 1,712 | 语用层 | 公文翻译、阅读理解 | 抽象语义、术语一致性 |
 | NuosuEdu | 73,992 | 综合层 | 选择、判断、问答 | 语言逻辑、推理逻辑 |
 
+## 测试代码：[MetricsCode](https://github.com/Tian-ye1214/Path-to-LLM-Mastery/tree/main/NLPMetrics)
+
 # Nuosu-Benchmark Overview
 
 **Nuosu-Benchmark** is a standardized evaluation benchmark designed for extremely low-resource languages (specifically Standard Yi / Nuosu). It aims to systematically assess large language models in cross-lingual understanding, semantic alignment, and reasoning generation.
@@ -45,3 +47,5 @@ Nuosu-Benchmark consists of **5 sub-datasets**, totaling **110,513** high-qualit
 | NuosuEpic | 17,644  | Pragmatic              | Poetry translation, cultural interpretation | Cross-lingual understanding, cultural context |
 | NuosuGov  | 1,712   | Pragmatic              | Official document translation, reading comprehension | Abstract semantics, terminology consistency |
 | NuosuEdu  | 73,992  | Comprehensive          | Multiple choice, classification, QA | Linguistic reasoning, logical inference |
+
+## Metrics Code：[MetricsCode](https://github.com/Tian-ye1214/Path-to-LLM-Mastery/tree/main/NLPMetrics)
